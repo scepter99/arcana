@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Arcana: Productivity New Tab for Chrome",
+  "version": "0.1.0",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "background": {
+    "service_worker": "src/background/index.ts"
+  }
+}

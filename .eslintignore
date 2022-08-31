@@ -1,0 +1,7 @@
+# Build directory
+dist
+
+# Config files
+vite.config.ts
+postcss.config.cjs
+tailwind.config.cjs
