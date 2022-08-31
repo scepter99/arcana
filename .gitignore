@@ -13,9 +13,6 @@ dist
 dist-ssr
 *.local
 
-# Rollup build stats
-stats.html
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
