@@ -1,5 +1,5 @@
 import * as ReactDOM from "react-dom/client";
-import "../assets/tailwind.css";
+import "src/assets/tailwind.css";
 
 function NewTab() {
   return <></>;
